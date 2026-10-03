@@ -25,7 +25,7 @@ Data cleaning and feature engineering: missing value imputation, IQR outlier det
 Personal portfolio website with a dark theme and contact form.
 
 ## Education
-- BS Data Science, University of Engineering and Technology (UET), Lahore, [expected year]
+- BS Data Science, University of Engineering and Technology (UET), Lahore, 2029
 - Previously: Government College University (GCU), Lahore
 
 ## Contact
