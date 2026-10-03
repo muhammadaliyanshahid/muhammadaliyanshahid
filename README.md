@@ -10,6 +10,7 @@ I'm a Data Science student at UET Lahore. I'm interested in machine learning, pr
 | Data & ML  | Pandas, EDA, Feature Engineering, Predictive Modeling |
 | Web        | Django, FastAPI, Bootstrap, Web Scraping              |
 | Tools      | Git, GitHub, VS Code, Visual Studio                   |
+
 ## Featured Projects
 ### [ds-verse-uet](https://github.com/muhammadaliyanshahid/ds-verse-uet)
 Full-stack Django web portal for UET Lahore's Institute of Data Science: past papers, timetables, GPA calculator and senior-junior academic collaboration with admin-approved uploads.
